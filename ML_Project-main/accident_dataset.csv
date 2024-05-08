@@ -1,0 +1,6 @@
+﻿weather,time,road_condition,visibility,label
+sunny,morning,dry,good,positive
+rainy,night,wet,poor,negative
+sunny,night,dry,good,positive
+rainy,morning,wet,poor,negative
+sunny,night,wet,good,negative
